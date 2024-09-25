@@ -1,4 +1,4 @@
 # demo
 first git repository
 <br>
-Author-Satyam Prakash
+Author-Satyam Prakas
